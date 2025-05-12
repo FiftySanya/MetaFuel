@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+
+# Byte-compiled
+__pycache__
+
+# SQLite database files
+*.sqlite3
+migrations
+db_parts
+
+# Environment variables
+.env
+
+# Editor directories/files
+.vscode/
+
+# Other
+diagrams
